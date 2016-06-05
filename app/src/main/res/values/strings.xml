@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">红包狂魔</string>
+    <string name="service_name">自动抢红包</string>
+    <string name="service_description">该服务将模拟用户点击微信红包的操作，自动打开微信红包</string>
+    <string name="str_settings">参数设置</string>
+    <string name="str_current_settints_hint">拆红包前将延迟0.0秒\n程序将从0点工作到24点</string>
+    <string name="str_grub_num_hint">已抢到0个红包</string>
+    <string name="str_start_service">启动服务</string>
+    <string name="str_apply">应用更改</string>
+    <string name="str_sleep_time_tip">延迟（单位：秒）</string>
+    <string name="str_sleep_time_hint">0</string>
+    <string name="str_begin_hour">起始时间（单位：小时）</string>
+    <string name="str_begin_hour_hint">0</string>
+    <string name="str_end_hour">截止时间（单位：小时）</string>
+    <string name="str_end_hour_hint">24</string>
+    <string name="str_statistics">数据统计</string>
+    <string name="str_help">使用帮助</string>
+    <string name="str_help_details">
+        \n
+        1.首次使用请启动服务\n
+        2.请关闭手机锁屏\n
+        3.请确保本程序在黑屏后不会被关闭\n
+        4.如果处于微信主界面或微信聊天界面，可能导致部分功能失效\n
+        5.请不要屏蔽微信群消息或禁止微信发送通知栏消息\n
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
